@@ -1,3 +1,3 @@
-Este projeto foi realizado por mim e por um colega para a Unidade Curricular Laboratório de Programação. Este jogo ainda tem alguns bugs que estou a corrigir nos meus tempos livres.
+Este projeto foi realizado por mim e por um colega. O jogo já funciona mas ainda nao está completo, também tem alguns bugs.
 
-This was project was carried out by me and a colleague for the Curricular Unit Programming Laboratory. This game still has some bugs that I'm fixing in my spare time.
+This project was done by me and a colleague. The game is already working but it is not yet complete, and it also has some bugs.
